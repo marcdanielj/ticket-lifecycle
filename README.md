@@ -28,7 +28,7 @@ This tutorial outlines the life cycle of the open-source help desk ticketing sys
 - Working tickets to completion
 
 
-<h2>Installation Steps</h2>
+<h2>Basic Steps</h2>
 
 
 ![Screenshot 2025-04-02 003557](https://github.com/user-attachments/assets/8dd1c6a9-4ec7-4ea5-9cf3-b3e2007c6b5e)
